@@ -347,6 +347,49 @@ ol {
   margin-bottom: 12px;
 }
 
+/*------------------
+  Join Us Section
+-------------------- */
+
+.newsection{
+  background-color: #F5F5F5;
+}
+
+.joinus-text {
+  text-align: center;
+}
+
+.joinus-text h2 {
+  font-size: 45px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #191919;
+}
+
+.joinus-text p {
+  margin-bottom: 45px;
+}
+
+.joinbtn{
+  padding: 18px 40px;
+  font-size: 16px;
+  border: none;
+  font-weight: 700;
+  outline: none;
+  border-radius: 30px;
+  margin-left: 20px;
+  cursor: pointer;
+  background-color: rgb(37, 37, 37);
+  color: white;
+}
+
+.joinbtn:hover{
+  color: #111111;
+  background-color: white;
+  border: 2px solid black;
+}
+/*----------------------*/
+
 /*---------------------
   Call To Section
 -----------------------*/
@@ -649,24 +692,6 @@ footer{
   min-width: 260px;
 }
 
-.joinbtn{
-  padding: 18px 40px;
-  font-size: 16px;
-  border: none;
-  font-weight: 700;
-  outline: none;
-  border-radius: 30px;
-  margin-left: 20px;
-  cursor: pointer;
-  background-color: rgb(37, 37, 37);
-  color: white;
-}
-
-.joinbtn:hover{
-  color: #111111;
-  background-color: white;
-  border: 2px solid black;
-}
 
 
 .page-content{
@@ -872,6 +897,3 @@ li.tns-item{
   background-color: #e32879;
 }
 
-.newsection{
-  background-color: #F5F5F5;
-}
