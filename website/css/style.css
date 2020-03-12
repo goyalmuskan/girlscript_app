@@ -363,29 +363,15 @@ ol {
 
 .ctc-text h2 {
   font-size: 45px;
-  color: #ffffff;
   font-weight: 700;
   margin-bottom: 20px;
+  color: #191919;
 }
 
 .ctc-text p {
-  color: #ffffff;
   margin-bottom: 45px;
 }
 
-.ctc-text .primary-btn.ctc-btn {
-  background: #ffffff;
-  color: #e32879;
-}
-
-.ctn-btn {
-  background-color: white;
-}
-
-updated_footer
----------------------
-  Member Section
------------------------
 
 /*---------------------
  Team Section
@@ -394,8 +380,6 @@ updated_footer
 	background:white;
 	padding: 50px;
 }	
-
-
 
  .team-card {
 	background-color: transparent;
@@ -885,4 +869,8 @@ li.tns-item{
 
 .col-lg-6 img{
   background-color: #e32879;
+}
+
+.newsection{
+  background-color: #F5F5F5;
 }
