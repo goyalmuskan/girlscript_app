@@ -649,7 +649,7 @@ footer{
   min-width: 260px;
 }
 
-.btn{
+.joinbtn{
   padding: 18px 40px;
   font-size: 16px;
   border: none;
@@ -658,13 +658,14 @@ footer{
   border-radius: 30px;
   margin-left: 20px;
   cursor: pointer;
- 
+  background-color: rgb(37, 37, 37);
   color: white;
 }
 
-.btn:hover{
+.joinbtn:hover{
   color: #111111;
   background-color: white;
+  border: 2px solid black;
 }
 
 
